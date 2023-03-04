@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonApp", "SingletonApp\SingletonApp.csproj", "{A139D5BF-FB98-4B93-A7F3-28367429E48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonApp.Lib", "SingletonApp.Lib\SingletonApp.Lib.csproj", "{4711D976-52D6-49CF-A071-716E68A5F9F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A139D5BF-FB98-4B93-A7F3-28367429E48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A139D5BF-FB98-4B93-A7F3-28367429E48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A139D5BF-FB98-4B93-A7F3-28367429E48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A139D5BF-FB98-4B93-A7F3-28367429E48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4711D976-52D6-49CF-A071-716E68A5F9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4711D976-52D6-49CF-A071-716E68A5F9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4711D976-52D6-49CF-A071-716E68A5F9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4711D976-52D6-49CF-A071-716E68A5F9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C8FA77-B9BC-4A73-92B3-D2C561B2B0B8}
+	EndGlobalSection
+EndGlobal
